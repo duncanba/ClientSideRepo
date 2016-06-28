@@ -1,3 +1,5 @@
 This is a new file.
 
 This line was added from GitHub
+
+This line was added for the branch test.
